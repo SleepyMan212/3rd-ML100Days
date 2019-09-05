@@ -1,0 +1,9 @@
+https://ai.googleblog.com/			Google AI blog
+https://research.fb.com/blog/			Facebook Research blog
+https://machinelearning.apple.com/		Apple machine learning journal
+https://www.jiqizhixin.com/			機器之心
+https://www.leiphone.com/category/ai		雷鋒網
+
+
+
+https://www.youtube.com/watch?v=nKW8Ndu7Mjw	The 7 Steps of Machine Learning (AI Adventures)
